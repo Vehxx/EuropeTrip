@@ -1,4 +1,5 @@
 # _config.yml
 theme: jekyll-theme-midnight
+title: ''
 github:
   is_project_page: false
